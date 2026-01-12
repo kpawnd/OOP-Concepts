@@ -1,0 +1,1 @@
+Write a program that stores information about employees and general people. All employees are people, but not all people are employees. Create a class hierarchy to reflect this real-world relationship.
